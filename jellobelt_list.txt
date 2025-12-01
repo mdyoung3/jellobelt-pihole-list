@@ -1,0 +1,10 @@
+(\.|^)youtube\.com$
+(\.|^)i1\.ytimg\.com$
+(\.|^)googlevideo\.com$
+(\.|^)www\.youtube\.com$
+(\.|^)m\.youtube\.com$
+(\.|^)www\.youtube-nocookie\.com$
+(\.|^)restrict\.youtube\.com$
+(\.|^)i\.ytimg\.com$
+(\.|^)youtubei\.googleapis\.com$
+
