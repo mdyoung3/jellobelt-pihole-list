@@ -7,4 +7,4 @@ www.youtube-nocookie.com
 restrict.youtube.com
 i.ytimg.com
 youtubei.googleapis.com
-
+www.youtube.com
